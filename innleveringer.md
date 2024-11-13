@@ -10,9 +10,9 @@
 
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      |  xx.xx            | kommer    |
-|Arbeidskrav 1                       | Uke x/x           | kommer    |
-|Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
+|Mappeoppgave 1                      | 22. mars 2024 kl 13:000           |   |
+|Arbeidskrav - Podkast               | 26. april 2024 kl 13:00  |   |
+|Mappeoppgave 2                      | 16. mai 2024 kl 13:00  |    |
 
 
-Oppgavene kan løses i grupper på maksimalt 3.
+Mappeoppgave 1 kan løses i grupper på maksimalt 3 studenter. Mappeoppgave 2 løses individuelt.
