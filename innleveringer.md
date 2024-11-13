@@ -10,9 +10,9 @@
 
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      | 22. mars 2024 kl 13:000           |   |
-|Arbeidskrav - muntlig presentasjon             | 26. april 2024 kl 13:00  |   |
-|Mappeoppgave 2                      | 16. mai 2024 kl 13:00  |    |
+|Mappeoppgave 1                      | 22. mars          |   |
+|Arbeidskrav - muntlig presentasjon             | 26. april   |   |
+|Mappeoppgave 2                      | 16. mai  |    |
 
 
 Mappeoppgave 1 kan løses i grupper på maksimalt 3 studenter. Mappeoppgave 2 løses individuelt.
