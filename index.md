@@ -1,7 +1,7 @@
 {% include navbar.html %}  {% include top-box.html %}
 
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
+
 
 
 ## Kursplan  
@@ -9,23 +9,30 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
+- [Forelesnings- og seminarplan](forelesningsplan.html){:target="blank"}
+- 
 - [Innleveringsplan](innleveringer.html){:target="blank"}   
 
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 
-## Kursbeskrivelse 
+Konkurransestrategi handler om forståelse av hvordan markeder og bransjer fungerer. Kurset vil gi en oversikt over ulike teorier og modeller for konkurranse og strategisk interaksjon mellom bedrifter, og innsikt i hvordan markedsforhold påvirker konkurransen mellom bedrifter. Med formål om å forstå hvordan bedrifter kan opptre strategisk i markeder for å oppnå konkurransefordeler eller redusert konkurranse.
+
+I kurset vil blant annet følgende tema belyses:
+-	Monopol, prisdiskriminering og produktvalg
+-	Basismodeller for pris- og kvantumskonkurranse
+-	Prissamarbeid 
+-	Markedskonsentrasjon, fusjoner og oppkjøp
+-	Vertikale relasjoner
 
 
-Kurset består av ulike interessante tema  
+For læringsmål se: [Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=785825&ar=2023&semester=V){:target="blank"}
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+- [Anita Michalsen](https://uit.no/ansatte/Anita.Michalsen){:target="blank"} (fagansvarlig)
+- Epost: anita.michalsen@uit.no 
 
 
 
@@ -39,6 +46,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ### Pensum til forelesningene
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
+
 
 
 
