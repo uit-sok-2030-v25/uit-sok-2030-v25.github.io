@@ -33,8 +33,7 @@ For læringsmål se: [Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner
 
 
 ## Faglærerinfo  
-- [Anita Michalsen](https://uit.no/ansatte/Anita.Michalsen){:target="blank"} (fagansvarlig)  Epost: anita.michalsen@uit.no
-- 
+- [Anita Michalsen](https://uit.no/ansatte/Anita.Michalsen){:target="blank"}  (fagansvarlig)   Epost: anita.michalsen@uit.no
 - Daniel Fabio Groth (seminarleder)
 
 
