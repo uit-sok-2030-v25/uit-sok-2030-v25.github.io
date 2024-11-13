@@ -16,6 +16,8 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
+## Kursbeskrivelse
+
 
 Konkurransestrategi handler om forståelse av hvordan markeder og bransjer fungerer. Kurset vil gi en oversikt over ulike teorier og modeller for konkurranse og strategisk interaksjon mellom bedrifter, og innsikt i hvordan markedsforhold påvirker konkurransen mellom bedrifter. Med formål om å forstå hvordan bedrifter kan opptre strategisk i markeder for å oppnå konkurransefordeler eller redusert konkurranse.
 
