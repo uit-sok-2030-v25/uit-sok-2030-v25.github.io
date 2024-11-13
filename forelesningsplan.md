@@ -6,7 +6,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 
 
 
-| Tid            | Sted            | Tema               |
+
 | Tid        | Forelesning/Seminar      | Tema                   | Pensum |    Ressurser |       
 |------------|--------------|------------------------|-------------------|-------|      
 |   |    |   |   |
