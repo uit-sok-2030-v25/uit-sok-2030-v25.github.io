@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Sok-xxxx Mikroøkonomi   
+# Sok-2030 Næringsøkonomi og konkurransestrategi   
 
 ## Innleveringer 
 
