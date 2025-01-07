@@ -19,7 +19,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |28. januar  |Forelesning 4 |Monopol og 3. grads prisdiskriminering      |PRN kap. 5.1 - 5.5|  |
 |4. februar |Forelesning 5|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap. 6.1 - 6.3 |  |  
 |11. februar |Forelesning 6|Monopol og produktvalg|PRN kap. 7.1 - 7.5 | |
-|18.februar |Seminar mappeoppgave I | | | |
+|18. februar |Seminar mappeoppgave I | | | |
 |februar |Seminar 1 |Monopol og 3. grads prisdiskriminering |Python Del 2 - 5.3 og 6.1 | |
 | februar |Seminar 2|Monopol og produktdifferensiering| Python Del 2 - 7.3 og 7.5| | 
 |  |   |   |
@@ -29,16 +29,16 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |25. mars  |Forelesning 8 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 | |
 |mars|Seminar 4|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3| | 
 | mars |Forelesning 9|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |    |
-| mars |Seminar 4| Sekvensiell konkurranse|  Python Del 2 - 11.1 og 11.2 |   |   
+| mars |Seminar 5| Sekvensiell konkurranse|  Python Del 2 - 11.1 og 11.2 |   |   
 |   |   |  |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |1. april|Forelesning 10 |Prissamarbeid og karteller  |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2| |
-| april |Seminar 5| Prissamarbeid|  Python Del  |   |   
+| april |Seminar 6| Prissamarbeid|  Python Del  |   |   
   |   |   | |
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
 |8. april|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2  |  |
 |22. april|Forelesning 12|Vertikale relasjoner |PRN kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python 16.1 - 16.2| |
-|april |Seminar 6|Horisontale og vertikale relasjoner|  Python Del  |   |   
+|april |Seminar 7|Horisontale og vertikale relasjoner|  Python Del  |   |   
 |mai|Forelesning 13|Oppsummering og gjennomgang av tidligere eksamensoppgaver  ||   
 |mai| Utlevering av mappeoppgave 2|  |  |
 
