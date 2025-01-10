@@ -25,7 +25,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
 ||Forelesning 7 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   ||
- |Seminar 3|Cournot modell|Python Del 3 - 9.4 og 9.5| |
+| |Seminar 3|Cournot modell|Python Del 3 - 9.4 og 9.5| |
 | |Forelesning 8 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 | |
 |mars|Seminar 4|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3| | 
 | mars |Forelesning 9|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |    |
