@@ -20,7 +20,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |28. januar  |Forelesning 4 | Monopol og 1.- og 2. grads prisdiskriminering  |PRN kap. 6.1 - 6.3 Python Del 2 - 6.1| [Forelesning 4](/Forelesning 4 - monopol og prisdiskriminering.pdf) [Notater 4](/Notater til forelesning 4 – monopol og  prisdiskriminering.pdf)|
 |4. februar |Forelesning 5|Monopol og produktvalg + Informasjon om mappeoppgave 1| PRN kap. 7.1 - 7.5 Python Del 2 - 7.3 |  |  
 |12. februar |Seminar 1 |Monopol og 3. grads prisdiskriminering |Python Del 2 - 5.3 og 6.1 |[Oppgave monopol og 3. grads prisdiskriminering](/Seminar 2 - Oppgaver monopol og prisdiskriminering .pdf) |
-|19. februar |Seminar 2|Monopol og produktdifferensiering| Python Del 2 - 7.3 og 7.5| | 
+|19. februar |Seminar 2|Monopol og produktdifferensiering| Python Del 2 - 7.3 | | 
 |26. februar |Seminar 3   |  Mappeoppgave 1 ||
 |   |   |  |
 |            |              |Del 3 Oligopolmodeller|    |
