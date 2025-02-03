@@ -11,7 +11,7 @@
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
 |Arbeidskrav - muntlig presentasjon   | 11. mars   |   |
-|Mappeoppgave 1                      | 14. mars          ||[Mappeoppgave 1](/Informasjon om mappeoppgave 1.pdf)    |
+|Mappeoppgave 1                      | 14. mars          |[Mappeoppgave 1](/Informasjon om mappeoppgave 1.pdf)    |
 |Mappeoppgave 2                      | 16. mai  |    |
 
 
