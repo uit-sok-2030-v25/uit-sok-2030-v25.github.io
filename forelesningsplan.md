@@ -26,20 +26,20 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |            |              |Del 3 Oligopolmodeller|    |
 |11. februar |Forelesning 6|Kvantumskonkurranse, Cournot modell og Nash-likevekt| PRN kap. 9.1 - 9.5 ||
 |18. februar|Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4|  |
-| |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| |
 |25. februar |Forelesning 8 | Sekvensiell konkurranse og Stackelberg modell|PRN kap. 11 | |
+|5. mars |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| |
 ||Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3| | 
-||Seminar 6|Sekvensiell konkurranse||
+|26. mars|Seminar 6|Sekvensiell konkurranse||
 |   |   |  |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |25. mars|Forelesning 9 |Prissamarbeid og karteller  |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2| |
-| april |Seminar 7| Prissamarbeid|  Python Del  |   |   
+|2. april |Seminar 7| Prissamarbeid|  Python Del  |   |   
   |   |   | |
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
 |1. april|Forelesning 10 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2  |  |
-|8. april|Forelesning 11|Vertikale relasjoner |PRN kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python 16.1 - 16.2| |
-|april |Seminar 8|Horisontale og vertikale relasjoner|  Python Del  |   |   
+|8. april|Forelesning 11|Vertikale relasjoner |PRN kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python 16.1 - 16.2| |  
 |22. april|Forelesning 12|Oppsummering og gjennomgang av tidligere eksamensoppgaver  ||   
+|24. april |Seminar 8|Horisontale og vertikale relasjoner|  Python Del  |   |   
 |mai| Utlevering av mappeoppgave 2|  |  |
 
 
