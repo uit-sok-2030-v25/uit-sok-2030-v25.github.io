@@ -18,13 +18,13 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |            |              |Del 2 Monopol i teori og praksis|    |
 |21. januar  |Forelesning 3  |Monopol og 3. grads prisdiskriminering    |PRN kap. 5.1 - 5.5 Python Del 2 - 5.3| [Forelesning 3](/Forelesning 3 - monopol og prisdiskriminering.pdf)[Notater 3](/Notater til forelesning 3 – monopol og 3. grads prisdiskriminering.pdf)|
 |28. januar  |Forelesning 4 | Monopol og 1.- og 2. grads prisdiskriminering  |PRN kap. 6.1 - 6.3 Python Del 2 - 6.1| [Forelesning 4](/Forelesning 4 - monopol og prisdiskriminering.pdf) [Notater 4](/Notater til forelesning 4 – monopol og  prisdiskriminering.pdf)|
-|4. februar |Forelesning 5|Monopol og produktvalg + Informasjon om mappeoppgave 1| PRN kap. 7.1 - 7.5 Python Del 2 - 7.3 - 7.5 |[Forelesning 4](/Forelesning 5 - monopol, produktvalg og kvalitet.pdf)[Mappeoppgave 1 - innhold og struktur](/Mappoppgave I - innhold og struktur.pdf)[Notater 5](Notater til forelesning 5 - monopol, produktvalg og kvalitet.pdf) |  
+|4. februar |Forelesning 5|Monopol og produktvalg + Informasjon om mappeoppgave 1| PRN kap. 7.1 - 7.5 Python Del 2 - 7.3 - 7.5 |[Forelesning 4](/Forelesning 5 - monopol, produktvalg og kvalitet.pdf)[Mappeoppgave 1 - innhold og struktur](/Mappoppgave I - innhold og struktur.pdf)[Notater 5](/Notater til forelesning 5 - monopol, produktvalg og kvalitet.pdf) |  
 |12. februar |Seminar 1 |Monopol og 3. grads prisdiskriminering |Python Del 2 - 5.3 og 6.1 |[Oppgave monopol og 3. grads prisdiskriminering](/Seminar 1 - Oppgaver monopol, prisdiskriminering og produktutvalg.pdf) |
 |19. februar |Seminar 2|Monopol og produktdifferensiering| Python Del 2 - 7.3 - 7.5 |[Oppgave monopol og produktdifferensiering](/Seminar 2 - monopol og produktdifferensiering.pdf) | 
 |26. februar |Seminar 3   |  Mappeoppgave 1 ||
 |   |   |  |
 |            |              |Del 3 Oligopolmodeller|    |
-|11. februar |Forelesning 6|Kvantumskonkurranse, Cournot modell og Nash-likevekt| PRN kap. 9.1 - 9.5 |[Forelesning 4](/Forelesning 6 - Kvantumskonkurranse og Cournot modell.pdf)|
+|11. februar |Forelesning 6|Kvantumskonkurranse, Cournot modell og Nash-likevekt| PRN kap. 9.1 - 9.5 |[Forelesning 6](/Forelesning 6 - Kvantumskonkurranse og Cournot modell.pdf)[Notater 6](/Notater til forelesning 6 – Kvantumskonkurranse og Cournot modell.pdf)|
 |18. februar|Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4|  |
 |25. februar |Forelesning 8 | Sekvensiell konkurranse og Stackelberg modell|PRN kap. 11 | |
 |5. mars |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| [Oppgave Cournot modell](/Seminar 4 - Cournot modell.pdf) |
