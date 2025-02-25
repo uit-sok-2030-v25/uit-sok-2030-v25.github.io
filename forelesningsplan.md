@@ -28,17 +28,18 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |18. februar|Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4| [Forelesning 7](/Forelesning 7 - Priskonkurranse og Bertrand modell.pdf)[Notater 7](/Notater til forelesning 7 -  priskonkurranse og lokaliseringsmodeller.pdf)|
 |25. februar |Forelesning 8 | Sekvensiell konkurranse og Stackelberg modell|PRN kap. 11 |[Forelesning 8](/Forelesning 8- Sekvensiell konkurranse og Stackelberg modell .pdf)[Notater 8](/Notater til forelesning  8 -  Sekvensiell konkurranse og Stackelberg modell.pdf) |
 |5. mars |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| [Oppgave Cournot modell](/Seminar 4 - Cournot modell.pdf) |
-||Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|[Oppgave Bertrand konkurranse og differensiering](/Seminar 5 - Oppgave Bertrand konkurranse og differensiering.pdf)  | 
+|18. mars |Forelesning 9 | Konkurransemodeller - Thinking classrom|PRN kap. 9 - 11 | |
+|. mars|Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|[Oppgave Bertrand konkurranse og differensiering](/Seminar 5 - Oppgave Bertrand konkurranse og differensiering.pdf)  | 
 |26. mars|Seminar 6|Sekvensiell konkurranse|Python Del 3 - 11.1 og 11.2|[Oppgave sekvensiell konkurranse](/Seminar 6 - Oppgave sekvensiell konkurranse.pdf) |
 |   |   |  |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
-|25. mars|Forelesning 9 |Prissamarbeid og karteller  |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2| |
+|25. mars|Forelesning 10 |Prissamarbeid og karteller  |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2| |
 |2. april |Seminar 7| Prissamarbeid|  Python Del  |   |   
   |   |   | |
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
-|1. april|Forelesning 10 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2  |  |
-|8. april|Forelesning 11|Vertikale relasjoner |PRN kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python 16.1 - 16.2| |  
-|22. april|Forelesning 12|Oppsummering og gjennomgang av tidligere eksamensoppgaver  ||   
+|1. april|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2  |  |
+|8. april|Forelesning 12|Vertikale relasjoner |PRN kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python 16.1 - 16.2| |  
+|22. april|Forelesning 13|Oppsummering og gjennomgang av tidligere eksamensoppgaver  ||   
 |24. april |Seminar 8|Horisontale og vertikale relasjoner|  Python Del  |   |   
 |mai| Utlevering av mappeoppgave 2|  |  |
 
