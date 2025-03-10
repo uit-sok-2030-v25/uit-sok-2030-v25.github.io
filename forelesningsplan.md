@@ -29,7 +29,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |25. februar |Forelesning 8 | Sekvensiell konkurranse og Stackelberg modell|PRN kap. 11 |[Forelesning 8](/Forelesning 8- Sekvensiell konkurranse og Stackelberg modell - til forelesning.pdf)[Notater 8](/Notater til forelesning  8 -  Sekvensiell konkurranse og Stackelberg modell.pdf) |
 |5. mars |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| [Oppgave Cournot modell](/Seminar 4 - Cournot modell.pdf) |
 |18. mars |Forelesning 9 | Konkurransemodeller - Thinking classrom|PRN kap. 9 - 11 | |
-|. mars|Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|[Oppgave Bertrand konkurranse og differensiering](/Seminar 5 - Oppgave Bertrand konkurranse og differensiering.pdf)  | 
+|19. mars|Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|[Oppgave Bertrand konkurranse og differensiering](/Seminar 5 - Oppgave Bertrand konkurranse og differensiering.pdf)  | 
 |26. mars|Seminar 6|Sekvensiell konkurranse|Python Del 3 - 11.1 og 11.2|[Oppgave sekvensiell konkurranse](/Seminar 6 - Oppgave sekvensiell konkurranse.pdf) |
 |   |   |  |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
