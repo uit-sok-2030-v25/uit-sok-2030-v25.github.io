@@ -33,7 +33,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |26. mars|Seminar 6|Sekvensiell konkurranse|Python Del 3 - 11.1 og 11.2|[Oppgave sekvensiell konkurranse](/Seminar 6 - Oppgave sekvensiell konkurranse.pdf) |
 |   |   |  |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
-|25. mars|Forelesning 10 |Prissamarbeid og karteller  |PRN kap. 14.1 - 14.2 |[Forelesning 9](/Forelesning 9 - prissamarbeid og kartell.pdf )[Notater 9](/Notater til forelesning  8 -  Sekvensiell konkurranse og Stackelberg modell.pdf) |
+|25. mars|Forelesning 10 |Prissamarbeid og karteller  |PRN kap. 14.1 - 14.2 |[Forelesning 9](/Forelesning 9 - prissamarbeid og kartell.pdf )[Notater 9](/Notater til forelesning 9 - prissamarbeid.pdf) |
 |2. april |Seminar 7| Prissamarbeid| Python Del 4 - 14.1 - 14.2 | [Oppgave prissamarbeid](/Seminar  7 - Oppgaver prissamarbeid.pdf) |   
   |   |   | |
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
